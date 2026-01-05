@@ -1,0 +1,7 @@
+{
+  "name": "FixIt Pro - Global Repair Assistant",
+  "description": "A high-performance diagnostic app for fixing cars, roofs, and household items using AI photo analysis and real-time instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
